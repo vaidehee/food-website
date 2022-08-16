@@ -1,0 +1,92 @@
+.container-fluid-1{
+  font-family: 'Dancing Script', cursive;
+
+
+}
+.container-fluid-3{
+  font-family: 'Caramel', cursive;
+  color: aliceblue;
+  font-size: medium;
+}
+
+
+.font{
+  font-family: 'Caramel', cursive;
+  color: aliceblue;
+  font-size: medium;
+  
+}
+.container-fluid-4{
+  font-family: 'Caramel', cursive;
+  color: aliceblue;
+  font-size: medium;
+}
+
+
+.in{
+  height:1500px;
+  background-color:white;
+  background-image: url('https://d2hg8ctx8thzji.cloudfront.net/womensgq.com/wp-content/uploads/2020/06/shutterstock_791959438-1-766x574.jpg');
+  background-size: cover;
+  padding: 10%;
+  background-image:no-repeat;
+  color: antiquewhite;
+}
+
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+
+
+
+
+
+  
+.footer{
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+
+}
+
+.footer h4{
+  margin-bottom: 25px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.review{
+  width: 44%;
+  text-align: center;
+  padding: 30px 0;
+  cursor: pointer;
+
+
+
+}
+
+
+.info{
+  height:1500px;
+  background-color:white;
+  background-image: url('https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/3667915/1820/1213/m1/fpnw/wm1/nmzbxenrvudgiuql2gecymrkchyewfixbljlnhzfmcee5aog6m0o0146ltenmjts-.jpg?1512111126&s=a0f29bafb9e6269216b2d15c0786bdb0');
+  background-size: cover;
+  padding: 10%;
+}
+
+

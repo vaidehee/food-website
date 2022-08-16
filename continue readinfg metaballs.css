@@ -1,0 +1,92 @@
+
+
+
+
+.container-fluid-1{
+  font-family: 'Dancing Script', cursive;
+
+
+}
+
+
+.intro{
+
+  font-family: 'Dancing Script', cursive;
+
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+img {
+  max-width: 100%
+}
+.image {
+  flex-basis: 70%;
+  order: 2;
+}
+.text {
+ 
+  padding-left: 20px;
+  font: italic 10px "Fira Sans", serif;
+}
+
+
+
+
+
+
+
+.font{
+  font-family: 'Prompt', sans-serif;
+}
+
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+
+
+
+
+
+  
+.footer{
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+
+}
+
+.footer h4{
+  margin-bottom: 25px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+

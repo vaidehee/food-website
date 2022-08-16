@@ -1,0 +1,116 @@
+.head{
+  font-family: 'Gluten', cursive;
+  text-align: center;
+  size: 100px;
+ 
+}
+.m{
+  font-family: 'Amatic SC', cursive;
+  
+}
+
+.gery{
+  color: grey;
+  text-align: center;
+
+}
+
+.main{
+  font-family: 'Dancing Script', cursive;
+  
+
+}
+.l1{
+  color: darksalmon;
+}
+
+
+
+.font{
+  font-family: 'Prompt', sans-serif;
+}
+
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-linkedin {
+    
+    
+    background: #007bb5;
+    color: white;
+  }
+
+
+  .fa-instagram {
+    background: rgb(216, 36, 13);
+    color: white;
+  }
+  
+.testinomials{
+  width: 80%;
+  margin: auto;
+  padding-top: 100px;
+  text-align: center;
+
+}
+
+
+.testinomail-col{
+  flex-basis: 24%;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  text-align: center;
+  background: #f3cbcb;
+  padding: 20px;
+  cursor: pointer;
+  display: flexbox;
+}
+
+.testinomail-col img{
+  height: 40px;
+  margin-left: 5px;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+
+.testinomail-col .fa{
+  color: orange;
+}
+  
+.footer{
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+
+}
+
+.footer h4{
+  margin-bottom: 25px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.review{
+  width: 44%;
+  text-align: center;
+  padding: 30px 0;
+  cursor: pointer;
+
+
+
+}
+
+
+.info{
+  height:1500px;
+  background-color:white;
+  background-image: url('BG\ IMAGE.png');
+  background-size: cover;
+  padding: 5%;
+}
+
+
